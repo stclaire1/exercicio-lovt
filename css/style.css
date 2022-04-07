@@ -60,3 +60,15 @@ header img{
  .banner img { 
   width: 60vw;
 }
+
+.container-images{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  max-width: 60%;
+  margin-left: 250px;
+}
+
+.container-images img{
+  width: 300px;
+}
